@@ -5,23 +5,42 @@
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**:
+
 - Went through the Odin Project, learnt about packets, DNS and set up WSL environment for development.
 - Worked on my Movie Watchlist App using OMDB API: stored the IMDB IDs returned using async functions in a variable.
 
 **Thoughts:**
+
 - The Odin Project
-    - Fixing WSL took some time, had to set the DNS in the environment to Google DNS or Cloudflare DNS to get it connected to the Internet.
-    - Learning how the internet and the Web works on the background was pretty interesting.
-    - I have started learning command line basics from https://swcarpentry.github.io/shell-novice/.
+
+  - Fixing WSL took some time, had to set the DNS in the environment to Google DNS or Cloudflare DNS to get it connected to the Internet.
+  - Learning how the internet and the Web works on the background was pretty interesting.
+  - I have started learning command line basics from https://swcarpentry.github.io/shell-novice/.
 
 - Scrimba Frontend path
-    - I have been working on the Movie Watchlist App as part of the Scrimba Frontend Path.
-    - I have used an async function to store MovieIDs in a variable.
-    - I will need to create another function (async probably) to make use of the IDS to get more details and render on the page.
-    - Async is a struggle as of now, definitely need more practice.
-    - I have only designed the app for mobile, will need to work on CSS later.
+  - I have been working on the Movie Watchlist App as part of the Scrimba Frontend Path.
+  - I have used an async function to store MovieIDs in a variable.
+  - I will need to create another function (async probably) to make use of the IDS to get more details and render on the page.
+  - Async is a struggle as of now, definitely need more practice.
+  - I have only designed the app for mobile, will need to work on CSS later.
 
 **Link to work:** [Movie Watchlist](https://github.com/SGM-dev/movie-watchlist)
+
+### Day 2: September 05, 2023
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**:
+
+- Went through the Odin Project, learnt about working with the command line.
+- Was not able to work on my Movie Watchlist, there has been a citywide power shutdown due to rains.
+
+**Thoughts:**
+
+- The Odin Project
+  - Dude, the command line is so intuitive!!
+
+**Link to work:** [The Odin Project](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
