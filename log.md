@@ -42,6 +42,20 @@
 
 **Link to work:** [The Odin Project](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
+### Day 3: September 06, 2023
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**:
+
+- Worked on my Movie Watchlist, added functionality to render the movie details returned from a search.
+
+**Thoughts:**
+
+- use forEach to loop over the data and render it, my grasp on async is getting better. Must make the code DRYer tho.
+
+**Link to work:** [Movie Watchlist](https://github.com/SGM-dev/movie-watchlist)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
