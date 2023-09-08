@@ -56,6 +56,47 @@
 
 **Link to work:** [Movie Watchlist](https://github.com/SGM-dev/movie-watchlist)
 
+### Day 4: September 07, 2023
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**:
+
+- Worked on my Movie Watchlist App
+
+  - added some styling
+
+- Worked on the Odin Project Foundations
+
+  - Revisited Git basics.
+    **Thoughts:**
+
+- Getting better in CSS.
+- Git is awesome!
+
+**Link to work:** [Movie Watchlist](https://github.com/SGM-dev/movie-watchlist)
+
+### Day 5: September 08, 2023
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**:
+
+- Worked on my Movie Watchlist App
+
+  - refactored functions that get movie IDs and render the movies.
+  - added unique ids for the upcoming flagship feature: watchlist functionality!
+
+- Worked on the Odin Project Foundations
+
+  - Revisited HTML foundations.
+    **Thoughts:**
+
+- Finally my code looks slightly better than last time
+- revisiting HTML and Git helped remember some stuff.
+
+**Link to work:** [Movie Watchlist](https://github.com/SGM-dev/movie-watchlist)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
