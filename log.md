@@ -69,7 +69,8 @@
 - Worked on the Odin Project Foundations
 
   - Revisited Git basics.
-    **Thoughts:**
+
+**Thoughts:**
 
 - Getting better in CSS.
 - Git is awesome!
@@ -88,12 +89,31 @@
   - added unique ids for the upcoming flagship feature: watchlist functionality!
 
 - Worked on the Odin Project Foundations
-
+  
   - Revisited HTML foundations.
-    **Thoughts:**
+    
+**Thoughts:**
 
 - Finally my code looks slightly better than last time
 - revisiting HTML and Git helped remember some stuff.
+
+**Link to work:** [Movie Watchlist](https://github.com/SGM-dev/movie-watchlist)
+
+### Day 6: September 09, 2023
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**:
+
+- completed my Movie Watchlist App!
+
+  - added ability to save movies to a watchlist in localStorage.
+  - the watchlist is now rendered on a separate page.
+  - added ability to remove movies from the watchlist stored in localStorage.
+
+**Thoughts:**
+
+- got some practice with localStorage and async and fixed some minor bugs.
 
 **Link to work:** [Movie Watchlist](https://github.com/SGM-dev/movie-watchlist)
 
